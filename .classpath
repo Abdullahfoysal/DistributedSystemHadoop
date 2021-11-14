@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/commons-cli-20040117.000000.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-common-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-common-3.1.1-tests.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-kms-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-app-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-common-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-hs-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-hs-plugins-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-jobclient-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-jobclient-3.1.1-tests.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-nativetask-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-shuffle-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-client-uploader-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-mapreduce-examples-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/run/media/rumi/Development/Hadoop_WordCount/hadoop-nfs-3.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
